@@ -1,0 +1,3 @@
+uname -o
+whoami
+hostname
